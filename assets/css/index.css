@@ -1,0 +1,12 @@
+ /*UserAccount*/
+ label.required:before{
+   content: "* ";
+   color:red;
+}
+
+/*facultyManageSettings Table*/
+#table{
+  height:435px;
+  overflow:auto;
+  overflow-x:hidden;    
+}   
